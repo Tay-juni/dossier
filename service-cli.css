@@ -1,0 +1,37 @@
+body{
+    font-size: 20px;
+    margin: 20px;
+}
+.header{
+    padding:10px 0 10px;
+    margin-bottom:40px;
+}
+.sujet{
+    margin: 10px 0;
+    height: 40px;
+    width: 90%;
+    border: none;
+    border-radius: 10px;
+    background-color: #cccccc84;
+}
+.main{
+    padding-bottom: 45px;
+}
+.nav{
+    margin: 10px 0;
+    height: 300px;
+    width: 90%;
+    border: none;
+    border-radius: 10px;
+    background-color: #cccccc84;
+}
+.submit{
+    height: 50px;
+    width: 90%;
+    border-radius: 10px;
+    font-size:  20px;
+    color: white;
+    background-color: #1898A8;
+    border: none;
+    cursor: pointer;
+}
